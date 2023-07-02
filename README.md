@@ -33,13 +33,13 @@ The project analyzes the following features of avocado sales:
 * Average price
 * Total volume
 * Total number of avocados sold
-* 4046, 4225, 4770, 4771, 5146, 5147 avocado types
+* 4046, 4225, 4770 avocado types
 
 ## Insights
 
 * The average price of avocados has been increasing over time, but it has been fluctuating more recently.
 * The total volume of avocados sold has also been increasing over time, but it has been plateauing in recent years.
-* The type of avocado (Hass, Fuerte, etc.) has a significant impact on the average price, but the impact has been decreasing in recent years.
+* The type of avocado has a significant impact on the average price, but the impact has been decreasing in recent years.
 * The month of the year has a significant impact on the average price, but the impact has been decreasing in recent years.
 * The machine learning models were able to predict avocado prices with a high degree of accuracy, but the accuracy has been decreasing in recent years.
 
