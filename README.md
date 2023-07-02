@@ -1,9 +1,4 @@
 # Avocado_Analysis-Price_Prediction
-Sure, here is a GitHub README file for the Avocado Price Prediction project using the link you provided:
-
-
-# Avocado Price Prediction
-
 This project uses Python to predict the average price of avocados in the United States. The data used for this project was obtained from Kaggle.
 
 ## Getting Started
